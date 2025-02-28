@@ -9,7 +9,7 @@
 
 https://github.com/user-attachments/assets/7ea54594-9795-45e3-ac94-6f333f16539a
 
-### 1. Xây dựng một server gửi thống báo về điện thoại
+### 1. Xây dựng một server gửi thống báo về điện thoại: [Link](https://github.com/ngtuananh24/API)
 
 - Chuỗi json: {"title": "Tiêu đề", "content": "Nội dung thông báo"}
 - Lưu lịch sử những thông báo đã gửi vào MySQL
@@ -25,7 +25,7 @@ Thiết bị đã nhận được thông báo online từ sever thông báo rung
 
 ![image](https://github.com/user-attachments/assets/4c503b13-0434-4bda-87fd-8b9f1f205e90)
 
-### 3. Máy gửi thông báo (Viết thêm - Kết nối FireBase)
+### 3. Máy gửi thông báo (More: Kết nối FireBase)
 Mô tả: Máy sẽ đóng vai trò như máy giao viên giúp chọn được người nhận, tiêu đề, nội dung và lưu lịch sử các thông báo đã gửi
 [Project máy gửi thông báo](https://github.com/ngtuananh24/gui_thong_bao)
 
